@@ -1,0 +1,4 @@
+{
+  "use_remote_config": true,
+  "api_base_url": "https://your-production-server.com/api"
+}
