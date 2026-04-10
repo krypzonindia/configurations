@@ -1,4 +1,35 @@
 {
-  "use_remote_config": false,
-  "api_base_url": "https://87260bcf9e22a2970b232abe97243d99.serveo.net/api"
+  "api": {
+    "use_remote_config": true,
+    "base_url": "https://api.krypzon.co.in"
+  },
+  "app_status": {
+    "maintenance_mode": false,
+    "maintenance_message": "We are currently upgrading our servers. We will be back in 30 minutes!",
+    "min_required_version": "1.0.0",
+    "update_url_android": "https://play.google.com/store/apps/details?id=com.krypzon.krypdocx",
+    "update_url_ios": "https://apps.apple.com/app/idYOUR_APP_ID"
+  },
+  "ads": {
+    "show_ads": true,
+    "android": {
+      "banner_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
+      "interstitial_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
+      "rewarded_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
+    },
+    "ios": {
+      "banner_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
+      "interstitial_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
+      "rewarded_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
+    }
+  },
+  "support_links": {
+    "support_email": "krypdocxteam@gmail.com",
+    "website_url": "https://krypzon.co.in/krypnotes/index.html",
+    "privacy_policy_url": "https://krypzon.co.in/krypnotes/pages/privacy-policy.html",
+    "terms_and_conditions_url": "https://krypzon.co.in/krypnotes/pages/terms-and-conditions.html",
+    "telegram_url": "https://t.me/krypzon",
+    "instagram_url": "https://www.instagram.com/krypnotes",
+    "facebook_url": "https://www.facebook.com/share/19NvY1pavW/"
+  }
 }
