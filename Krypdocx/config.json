@@ -1,6 +1,6 @@
 {
   "api": {
-    "use_remote_config": false,
+    "use_remote_config": true,
     "base_url": "https://api.krypzon.co.in"
   },
   "app_status": {
