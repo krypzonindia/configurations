@@ -1,8 +1,7 @@
 {
-  "api": {
-    "use_remote_config": true,
-    "base_url": "https://api.krypzon.co.in/api"
-  },
+  "use_remote_config": true,
+  "api_base_url": "https://api.krypzon.co.in/api/",
+  
   "app_status": {
     "maintenance_mode": false,
     "maintenance_message": "We are currently upgrading our servers. We will be back in 30 minutes!",
