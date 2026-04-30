@@ -1,7 +1,8 @@
 {
-  "api_base_url": "https://api.krypzon.co.in/api",
+  "use_remote_config": true,
+  "api_base_url": "https://api.krypzon.co.in", 
   "monetization_enabled": false,
-  "rewardedAdCreditAmount": 0,
+  "rewardedAdCreditAmount": 10,
   "ads": {
     "show_ads": false,
     "android": {
@@ -17,18 +18,18 @@
   },
   "app_status": {
     "maintenance_mode": false,
-    "maintenance_message": "Our servers are currently undergoing maintenance. We'll be back shortly!",
+    "maintenance_message": "We are currently upgrading our servers to improve your experience. We will be back online shortly!",
     "min_required_version": "1.0.0",
     "update_url_android": "https://play.google.com/store/apps/details?id=com.krypzon.krypdocx",
-    "update_url_ios": "https://apps.apple.com/app/krypdocx/id123456789"
+    "update_url_ios": ""
   },
   "support_links": {
     "support_email": "krypdocxteam@gmail.com",
-    "website_url": "https://krypdocx.krypzon.co.in",
+    "website_url": "https://krypzon.co.in/krypdocx",
     "privacy_policy_url": "https://krypzon.co.in/krypdocx/pages/privacy-policy.html",
     "terms_and_conditions_url": "https://krypzon.co.in/krypdocx/pages/terms-and-conditions.html",
     "telegram_url": "https://t.me/krypzon",
-    "instagram_url": "https://www.instagram.com/krypzon",
-    "facebook_url": "https://facebook.com/krypzon"
+    "instagram_url": "https://www.instagram.com/krypnotes",
+    "facebook_url": "https://www.facebook.com/share/19NvY1pavW/"
   }
 }
