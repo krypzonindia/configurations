@@ -1,30 +1,30 @@
 {
-  "use_remote_config": false,
-  "api_base_url": "https://api.krypzon.co.in",
-  
-  "app_status": {
-    "maintenance_mode": false,
-    "maintenance_message": "We are currently upgrading our servers. We will be back in 30 minutes!",
-    "min_required_version": "1.0.0",
-    "update_url_android": "https://play.google.com/store/apps/details?id=com.krypzon.krypdocx",
-    "update_url_ios": "https://apps.apple.com/app/idYOUR_APP_ID"
-  },
+  "api_base_url": "https://api.krypzon.co.in/api",
+  "monetization_enabled": false,
+  "rewardedAdCreditAmount": 0,
   "ads": {
-    "show_ads": true,
+    "show_ads": false,
     "android": {
-      "banner_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
-      "interstitial_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
-      "rewarded_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
+      "banner_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
     },
     "ios": {
-      "banner_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
-      "interstitial_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx",
-      "rewarded_id": "ca-app-pub-xxxxxxxxxxxxxxxx/xxxxxxxxxx"
+      "banner_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
     }
+  },
+  "app_status": {
+    "maintenance_mode": false,
+    "maintenance_message": "Our servers are currently undergoing maintenance. We'll be back shortly!",
+    "min_required_version": "1.0.0",
+    "update_url_android": "https://play.google.com/store/apps/details?id=com.krypzon.krypdocx",
+    "update_url_ios": "https://apps.apple.com/app/krypdocx/id123456789"
   },
   "support_links": {
     "support_email": "krypdocxteam@gmail.com",
-    "website_url": "https://app.krypzon.co.in/",
+    "website_url": "https://krypdocx.krypzon.co.in",
     "privacy_policy_url": "https://krypzon.co.in/krypnotes/pages/privacy-policy.html",
     "terms_and_conditions_url": "https://krypzon.co.in/krypnotes/pages/terms-and-conditions.html",
     "telegram_url": "https://t.me/krypzon",
