@@ -1,6 +1,6 @@
 {
   "use_remote_config": true,
-  "api_base_url": "https://api.krypzon.co.in", 
+  "api_base_url": "https://api.krypzon.co.in/api", 
   "monetization_enabled": false,
   "rewardedAdCreditAmount": 10,
   "ads": {
