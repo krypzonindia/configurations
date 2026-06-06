@@ -1,5 +1,5 @@
 {
-  "use_remote_config": true,
+  "use_remote_config": false,
   "api_base_url": "https://api.krypzon.co.in/api", 
   "monetization_enabled": false,
   "rewardedAdCreditAmount": 10,
@@ -30,6 +30,7 @@
     "terms_and_conditions_url": "https://krypzon.co.in/krypdocx/pages/terms-and-conditions.html",
     "telegram_url": "https://t.me/krypzon",
     "instagram_url": "https://www.instagram.com/krypnotes",
-    "facebook_url": "https://www.facebook.com/share/19NvY1pavW/"
+    "facebook_url": "https://www.facebook.com/share/19NvY1pavW/",
+    "contact_form_url": "https://krypzon.co.in/krypnotes/pages/contact.html" 
   }
 }
